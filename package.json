@@ -1,0 +1,11 @@
+{
+  "name": "onlyImages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roi Kramer",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
